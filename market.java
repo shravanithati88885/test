@@ -36,6 +36,10 @@ System.out.print(n);}
 	int l[]=new int[26];
 	for(int i=0;i<26;i++)
 	l[i]=sc.nextInt();
+
+
+
+   
 	arr(s,l);
 	}
 }
